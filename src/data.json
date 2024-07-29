@@ -1,0 +1,87 @@
+[
+    {
+    "id": 1,
+    "title": "Classic Cheeseburger",
+    "price": 12.99,
+    "category": "Burgers",
+    "description": "Juicy beef patty, cheddar cheese, lettuce, tomato, onion, and our special sauce on a toasted bun."
+    },
+    {
+    "id": 2,
+    "title": "Spicy Chicken Sandwich",
+    "price": 11.99,
+    "category": "Sandwiches",
+    "description": "Crispy chicken breast, spicy mayo, lettuce, tomato, and jalapenos on a baguette."
+    },
+    {
+    "id": 3,
+    "title": "Veggie Delight",
+    "price": 10.99,
+    "category": "Salads",
+    "description": "Mixed greens, roasted vegetables, avocado, and balsamic vinaigrette."
+    },
+    {
+    "id": 4,
+    "title": "Margherita Pizza",
+    "price": 14.99,
+    "category": "Pizzas",
+    "description": "Fresh tomatoes, mozzarella cheese, basil, and a drizzle of olive oil on a crispy crust."
+    },
+    {
+    "id": 5,
+    "title": "Chicken Quesadilla",
+    "price": 12.99,
+    "category": "Mexican",
+    "description": "Shredded chicken, cheese, sautéed onions, and bell peppers wrapped in a tortilla and served with salsa."
+    },
+    {
+    "id": 6,
+    "title": "Grilled Chicken Caesar Salad",
+    "price": 13.99,
+    "category": "Salads",
+    "description": "Grilled chicken, romaine lettuce, croutons, and parmesan cheese tossed in Caesar dressing."
+    },
+    {
+    "id": 7,
+    "title": "Meatball Sub",
+    "price": 12.99,
+    "category": "Sandwiches",
+    "description": "Juicy meatballs, marinara sauce, and melted mozzarella cheese on a crusty sub roll."
+    },
+    {
+    "id": 8,
+    "title": "Chicken Tikka Masala",
+    "price": 14.99,
+    "category": "Indian",
+    "description": "Tender chicken in a rich and creamy tomato sauce, served with basmati rice and naan bread."
+    },
+    {
+    "id": 9,
+    "title": "Greek Gyro",
+    "price": 11.99,
+    "category": "Sandwiches",
+    "description": "Sliced lamb and beef, tomato, onion, cucumber, and tzatziki sauce wrapped in a warm pita."
+    },
+    {
+    "id": 10,
+    "title": "Shrimp Scampi Pasta",
+    "price": 16.99,
+    "category": "Pasta",
+    "description": "Succulent shrimp, garlic, and parsley in a light and zesty lemon sauce, served with linguine."
+    },
+    {
+    "id": 11,
+    "title": "Roasted Veggie Wrap",
+    "price": 10.99,
+    "category": "Wraps",
+    "description": "Roasted vegetables, hummus, and mixed greens wrapped in a whole wheat tortilla."
+    },
+    {
+    "id": 12,
+    "title": "Chocolate Lava Cake",
+    "price": 7.99,
+    "category": "Desserts",
+    "description": "Warm and gooey chocolate cake, served with a scoop of vanilla ice cream."
+    }
+    ]
+    
